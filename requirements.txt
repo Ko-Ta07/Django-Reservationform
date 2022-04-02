@@ -1,0 +1,6 @@
+Django
+django-allauth
+django-widget-tweaks
+pillow
+python-dotenv
+gunicorn
